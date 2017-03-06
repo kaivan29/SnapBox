@@ -13,3 +13,9 @@
 5.	Browse all pictures.  When a picture is displayed, so are its tags.  There are buttons to see the Next or the Previous picture.
 
 6.	Find pictures with any combination of tags.  User can go through Next or the Previous picture with those tags.
+
+![DARWIN](/screenshots/GUI.png "Step 1")
+![DARWIN](/screenshots/shot_1.PNG "Step 2")
+![DARWIN](/screenshots/shot_2.PNG "Step 3")
+![DARWIN](/screenshots/shot_3.PNG "Step 4")
+![DARWIN](/screenshots/shot_4.PNG "Step 5")
